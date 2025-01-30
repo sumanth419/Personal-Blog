@@ -1,0 +1,17 @@
+.blog-post {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-post h2 {
+    color: #333;
+  }
+  
+  .blog-post p {
+    font-size: 16px;
+    color: #666;
+  }
+  
